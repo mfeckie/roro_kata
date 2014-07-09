@@ -1,5 +1,4 @@
 # RoRO Kata
-=========
 
 ##Instructions
 
